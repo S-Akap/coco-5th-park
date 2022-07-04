@@ -1,0 +1,11 @@
+﻿id,user_id,tag_id,color_code,comment,url
+1,1,1,221310,test test test,https://test-url
+2,1,3,110013,"Comment ",
+3,3,1,fefefe,"aaa
+bbb",
+4,1,1,e0e044,test comment,https://test-url
+5,2,2,2f4f4f,コメント,https://link
+6,1,4,000080,test test test,
+7,3,2,8fbc8f,TESTMESSAGE,
+8,9,5,daa520,TESTMESSAGE,
+9,9,6,8b0000,TESTMESSAGE,https://www.san-x.co.jp/sumikko/
